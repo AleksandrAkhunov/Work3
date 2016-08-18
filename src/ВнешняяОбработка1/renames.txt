@@ -2,6 +2,8 @@
 19d21df2-235e-477c-a21c-436f6d2af365.0\text-->ObjectModule.bsl
 9e23455e-4b80-4352-b4f5-c7a681c69fd6-->und\9e23455e-4b80-4352-b4f5-c7a681c69fd6
 copyinfo-->und\copyinfo
+dbd0f951-5372-4dad-b0bc-6d57dddec593-->und\dbd0f951-5372-4dad-b0bc-6d57dddec593
+dbd0f951-5372-4dad-b0bc-6d57dddec593.0-->und\dbd0f951-5372-4dad-b0bc-6d57dddec593.0
 root-->und\root
 version-->und\version
 versions-->und\versions
