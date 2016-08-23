@@ -1,0 +1,92 @@
+{
+  "uid" : "50279673ef86dac0",
+  "name" : "расчет возраста для даты рождения 22.10.1976 и текущей даты 22.08.2016",
+  "title" : "2016",
+  "time" : {
+    "start" : 63607536558860,
+    "stop" : 63607536559469,
+    "duration" : 609
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "e4d87564db37f6c7",
+    "name" : "РасчетВозрастаЧеловекаВМесяцах",
+    "title" : "РасчетВозрастаЧеловекаВМесяцах"
+  },
+  "steps" : [ {
+    "name" : "Допустим есть дата рождения человека равная 22.10.1976",
+    "title" : "Допустим есть дата рождения человека равная 22.10.1976",
+    "time" : {
+      "start" : 63607536559132,
+      "stop" : 63607536559133,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "и текущая дата равная 22.08.2016",
+    "title" : "и текущая дата равная 22.08.2016",
+    "time" : {
+      "start" : 63607536559261,
+      "stop" : 63607536559261,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда результат вычисления будет равен 478",
+    "title" : "Тогда результат вычисления будет равен 478",
+    "time" : {
+      "start" : 63607536559468,
+      "stop" : 63607536559469,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "РасчетВозрастаЧеловекаВМесяцах"
+  }, {
+    "name" : "feature",
+    "value" : "РасчетВозрастаЧеловекаВМесяцах"
+  }, {
+    "name" : "story",
+    "value" : "расчет возраста для даты рождения 22.10.1976 и текущей даты 22.08.2016"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

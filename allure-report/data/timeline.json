@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "50279673ef86dac0",
+        "name" : "расчет возраста для даты рождения 22.10.1976 и текущей даты 22.08.2016",
+        "title" : "2016",
+        "time" : {
+          "start" : 63607536558860,
+          "stop" : 63607536559469,
+          "duration" : 609
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

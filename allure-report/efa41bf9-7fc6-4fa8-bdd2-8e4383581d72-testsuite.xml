@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name xmlns="">РасчетВозрастаЧеловекаВМесяцах</name>
+	<test-cases xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<test-case start="63607536558860" stop="63607536559469" status="passed">
+			<name>расчет возраста для даты рождения 22.10.1976 и текущей даты 22.08.2016</name>
+			<steps>
+				<step start="63607536559132" stop="63607536559133" status="passed">
+					<name>Допустим есть дата рождения человека равная 22.10.1976</name>
+					<title>Допустим есть дата рождения человека равная 22.10.1976</title>
+				</step>
+				<step start="63607536559261" stop="63607536559261" status="passed">
+					<name>и текущая дата равная 22.08.2016</name>
+					<title>и текущая дата равная 22.08.2016</title>
+				</step>
+				<step start="63607536559468" stop="63607536559469" status="passed">
+					<name>Тогда результат вычисления будет равен 478</name>
+					<title>Тогда результат вычисления будет равен 478</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="расчет возраста для даты рождения 22.10.1976 и текущей даты 22.08.2016"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels xmlns="" xmlns:d2p1="urn:model.allure.qatools.yandex.ru">
+		<label name="feature" value="РасчетВозрастаЧеловекаВМесяцах"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>
